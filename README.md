@@ -35,28 +35,32 @@ The dashboard enables procurement and supply chain teams to:
 
 ---
 
-## Main Features
+## Key Metrics
 
-- Monthly Forecast Accuracy (-1 and -3)
-- Weekly Forecast Accuracy (-1 and -3)
+The dashboard includes custom DAX measures for:
+
+- Forecast Accuracy (-1 and -3)
+- Weekly Forecast Accuracy
 - Forecast Bias
-- Real vs Forecast analysis
+- Real vs Forecast
 - Forecast Variability
-- Weekly Variability
-- Dynamic YTD calculations
-- Executive Insights (Top 10 / Bottom 10 materials)
+- Weekly Forecast Variability
+- Year-to-Date (YTD) calculations
+- Dynamic Top 10 / Bottom 10 material analysis
 - Dynamic date range filtering
-- Dynamic forecast horizon selector (-1 / -3)
-- Interactive drill-down by Category, Package, Subpackage and RAU
+- Dynamic forecast horizon selection (-1 / -3)
 
 ---
 
-## Technologies
+## Technical Highlights
 
-- Power BI
-- DAX
-- Power Query
-- Data Modeling (Star Schema)
+- Built with a star schema data model.
+- Developed advanced DAX measures for Forecast Accuracy, Bias, Variability and Real vs Forecast.
+- Implemented custom YTD calculations consistent with monthly and weekly visualizations.
+- Created dynamic measures driven by user-selected date ranges.
+- Implemented executive Top/Bottom 10 material insights.
+- Designed interactive drill-down analysis by Category, Package, Subpackage and Material.
+- Optimized measures to ensure consistent KPI calculations across cards, matrices and charts.
 
 ---
 
