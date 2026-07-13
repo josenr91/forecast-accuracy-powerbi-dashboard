@@ -72,6 +72,23 @@ The solution is built on a dimensional data model designed to support scalable a
 
 ---
 
+## Skills Demonstrated
+
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+- Business Intelligence
+- Forecasting Analytics
+- Supply Chain Analytics
+- Procurement Analytics
+- Demand Planning
+- KPI Design
+- Executive Dashboard Development
+- Data Visualization
+
+---
+
 ## Status
 
 🚧 Currently under development.
