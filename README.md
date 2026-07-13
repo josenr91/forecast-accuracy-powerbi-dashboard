@@ -1,5 +1,7 @@
 # Forecast Accuracy & Variability Dashboard
 
+![Dashboard Overview](Dashboard-overview.png)
+
 ## Overview
 
 This project showcases an executive Power BI dashboard developed to monitor forecast performance and support demand planning decisions.
