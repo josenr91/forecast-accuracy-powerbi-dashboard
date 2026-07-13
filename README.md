@@ -64,6 +64,14 @@ The dashboard includes custom DAX measures for:
 
 ---
 
+## Data Model
+
+The solution is built on a dimensional data model designed to support scalable analytics and high-performance DAX calculations.
+
+![Data Model](data-model.png)
+
+---
+
 ## Status
 
 🚧 Currently under development.
