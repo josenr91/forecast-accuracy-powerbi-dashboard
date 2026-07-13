@@ -23,6 +23,18 @@ This dashboard was designed to answer those questions through interactive analyt
 
 ---
 
+## Business Impact
+
+The dashboard enables procurement and supply chain teams to:
+
+- Monitor forecast performance at both monthly and weekly levels.
+- Identify the materials with the largest positive and negative forecast deviations.
+- Analyze forecast bias and demand variability.
+- Support planning decisions through interactive executive insights.
+- Reduce the time required to identify the main drivers of forecast error.
+
+---
+
 ## Main Features
 
 - Monthly Forecast Accuracy (-1 and -3)
